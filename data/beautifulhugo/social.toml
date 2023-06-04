@@ -1,0 +1,76 @@
+[[social_icons]]
+id = "email"
+url = "mailto:%s"
+title = "Email me"
+icon = "fas fa-envelope"
+
+
+[[social_icons]]
+id = "github"
+url = "https://github.com/%s"
+title = "GitHub"
+icon = "fab fa-github"
+
+[[social_icons]]
+id = "gitlab"
+url = "https://gitlab.com/%s"
+title = "GitLab"
+icon = "fab fa-gitlab"
+
+[[social_icons]]
+id = "bitbucket"
+url = "https://bitbucket.org/%s"
+title = "Bitbucket"
+icon = "fab fa-bitbucket"
+
+[[social_icons]]
+id = "twitter"
+url = "https://twitter.com/%s"
+title = "Twitter"
+icon = "fab fa-twitter"
+
+[[social_icons]]
+id = "linkedin"
+url = "https://linkedin.com/in/%s"
+title = "LinkedIn"
+icon = "fab fa-linkedin"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[social_icons]]
+id = "telegram"
+url = "https://telegram.me/%s"
+title = "Telegram"
+icon = "fab fa-telegram"
+
+
+
+[[social_icons]]
+id = "codepen"
+url = "https://codepen.io/%s"
+title = "CodePen"
+icon = "fab fa-codepen"
+
+
+
+
+
+[[social_icons]]
+id = "discord"
+url = "https://discord.gg/%s"
+title = "Discord"
+icon = "fab fa-discord"
+
