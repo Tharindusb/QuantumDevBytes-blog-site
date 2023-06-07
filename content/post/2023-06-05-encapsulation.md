@@ -9,7 +9,7 @@ Encapsulation in OOP refers to the bundling of data and methods within a class, 
 
 <!--more-->
 
-In the following example, we illustrate a scenario where lack of encapsulation can lead to potential issues:
+In the following example, I illustrate a scenario where lack of encapsulation can lead to potential issues:
 
 ```java
     public class Car{
