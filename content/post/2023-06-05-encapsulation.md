@@ -2,7 +2,7 @@
 title: Encapsulation
 subtitle: Safeguarding Data and Enhancing Code Flexibility
 date: 2023-06-05
-tags: ["ObjectOrientedProgramming","Java","BackToBasics"]
+tags: ["OOP","Java","BackToBasics"]
 ---
 
 Encapsulation in OOP refers to the bundling of data and methods within a class, hiding the internal implementation details and providing controlled access through well-defined interfaces.
