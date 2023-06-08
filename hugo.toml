@@ -1,6 +1,6 @@
 baseURL = 'https://tharindusb.github.io/QuantumDevBytes-blog-site/'
 languageCode = 'en-us'
-title = 'QuantumDevBytes'
+title = 'QuantumDev Bytes'
 
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
