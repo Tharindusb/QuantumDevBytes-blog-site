@@ -1,5 +1,5 @@
 ---
-title: Encapsulation
+title: Blog 0 - Encapsulation
 subtitle: Safeguarding Data and Enhancing Code Flexibility
 date: 2023-06-05
 tags: ["OOP","Java","BackToBasics"]
