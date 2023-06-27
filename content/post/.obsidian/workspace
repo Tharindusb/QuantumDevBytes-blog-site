@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "673393655c182e03",
+    "type": "split",
+    "children": [
+      {
+        "id": "a798e1dd2ad6c0d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2023-06-19-constructors.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2b026de19caeadf2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2023-06-19-constructors.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10293927ad8039a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6061f0ae28c5c4df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed596c35240c8857",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a216695f48e87bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6236a6aa1719cde3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "03d3387d2eda152c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2920e4550ddb94ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d76d0bd95a70c6fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-06-19-constructors.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05f470d116c3d39a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-06-19-constructors.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65ef6e04c597fca7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d8e98ed2409b5d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-06-19-constructors.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a798e1dd2ad6c0d8",
+  "lastOpenFiles": [
+    "2023-06-14-this.md",
+    "2023-06-19-constructors.md",
+    "2023-06-05-encapsulation.md"
+  ]
+}
