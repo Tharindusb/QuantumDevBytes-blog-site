@@ -4,36 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "719ad9b55aa48432",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "20d243cd456c30a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-06-19-constructors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "342490c1422ff9ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-06-05-encapsulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "d163c321a1ca5c7e",
         "type": "tabs",
         "children": [
@@ -185,11 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20d243cd456c30a5",
+  "active": "f3f471399796ec5d",
   "lastOpenFiles": [
     "2023-06-05-encapsulation.md",
-    "2023-06-14-this.md",
     "2023-06-19-constructors.md",
+    "2023-06-14-this.md",
     "2023-06-26.md",
     "template",
     "Untitled.canvas"

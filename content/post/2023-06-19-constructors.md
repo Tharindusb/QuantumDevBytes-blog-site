@@ -145,6 +145,18 @@ int main()
 
 In this code, we have added a constructor that takes `float` values for `X` and `Y`. When creating a new `Entity` object, we can pass the desired values directly to the constructor. This feature provides flexibility and convenience, enabling us to set initial values during object instantiation.
 
+## Default Constructor:
+
+In C++, when a class does not define any constructors explicitly, a default constructor is automatically provided. The default constructor has no parameters and no implementation, resulting in the initialization of object members to their default values. The default constructor for the `Entity` class would look like this:
+
+```cpp
+Entity() { }
+```
+
+It's important to note that even though the default constructor has no explicit implementation, it still performs the necessary initialization.
+
+Additionally, it's worth mentioning the difference in behavior between C++ and some other languages, such as Java, when it comes to initializing primitive types. In Java, primitive types like `int` or `float` are automatically initialized and set to zero. However, in C++, all primitive types must be manually initialized, or else they will contain whatever values were left over in the memory at the time of object creation. It's crucial to ensure proper initialization of primitive types to avoid unexpected behaviour or bugs in C++ programs.
+
 ## Deleting Constructors:
 
 In some scenarios, it might be desirable to prevent the usage of default constructors. By default, C++ provides a default constructor that takes no parameters. However, we can delete this default constructor to disallow its usage, ensuring that objects can only be created using constructors with parameters. Let's consider the following example:
@@ -153,6 +165,7 @@ In some scenarios, it might be desirable to prevent the usage of default constru
 class Log
 {
 public:
+	Log() = delete;
     static void Write()
     {
         // Logging implementation
