@@ -74,4 +74,6 @@ While destructors are usually called automatically, it's also possible to explic
 Destructors are crucial for proper resource management in C++. They ensure that any resources acquired during object initialization are released, preventing memory leaks and other resource-related issues. By implementing destructors correctly, you can maintain a clean and efficient codebase.
 
 ## Conclusion: 
-Understanding destructors is essential for managing object destruction and resource cleanup in C++. By leveraging destructors effectively, you can ensure proper memory management and prevent resource leaks. With the knowledge gained from this blog post, you'll be equipped to write robust C++ code and make informed decisions when it comes to object destruction and cleanup. Happy coding!
+Understanding destructors is essential for managing object destruction and resource cleanup in C++. By leveraging destructors effectively, you can ensure proper memory management and prevent resource leaks. With the knowledge gained from this blog post, you'll be equipped to write robust C++ code and make informed decisions when it comes to object destruction and cleanup. 
+
+Happy coding!
