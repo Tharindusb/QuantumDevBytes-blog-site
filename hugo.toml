@@ -1,4 +1,4 @@
-baseURL = 'http://nadalu.lk/QuantumDevBytes-blog-site/'
+baseURL = 'https://github.com/Tharindusb/QuantumDevBytes-blog-site/'
 languageCode = 'en-us'
 title = 'QuantumDev Bytes'
 
